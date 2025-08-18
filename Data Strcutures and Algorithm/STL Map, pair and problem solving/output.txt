@@ -1,0 +1,6 @@
+101 Syeed
+102 Shams
+103 Sakib
+After erasing ----------- + ------------
+102 Shams
+103 Sakib
